@@ -9,6 +9,7 @@ with when the last Greek speakers were gone from each; the Patriarchates of Jeru
 Present-day Turkey is not included: its Greek cities, Antioch, Edessa and Tarsus among them, are on a page of their own, [Greek Cities in Present-Day Turkey](https://iosiflazaridis.github.io/greek-cities-turkey/).
 Egypt is not included either: the Greek cities of Sinai, the part of Egypt that lies in Asia (Pelusium, Rhinocorura, Pharan and others), are listed with the rest of Egypt in [Greek Cities in Present-Day Africa](https://iosiflazaridis.github.io/greek-cities-africa/).
 Georgia, whose Greek cities lay on its Black Sea coast, is also left out.
+The Greek cities east of Iran, in Afghanistan, Turkmenistan and the rest of Central and South Asia, are in [Greek Cities of Central and South Asia](https://iosiflazaridis.github.io/greek-cities-central-south-asia/).
 
 - `index.html`: the page (self-contained; the data are embedded)
 - `img/`: the eleven images in full size; `thumb/`: their thumbnails
